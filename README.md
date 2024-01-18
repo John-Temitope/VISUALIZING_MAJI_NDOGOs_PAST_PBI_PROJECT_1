@@ -55,7 +55,7 @@ A column chart was created showing the total population using the various water 
 
 number_of_shared_taps      |  percent_of_shared_taps         
 :-------------------------:|:--------------------------------:                                       
-![](shared_taps.png)       |  ![](percent_shared_taps.png)
+
   
 More people use shared taps compared to the others. The least being the river. 43% might not seem to be a large number for shared taps but the next highest is the 18%. This indicates that shared taps is the major means of water supply in Maji Ndogo. The well and the tap in homes have close percentage number of users.
 
